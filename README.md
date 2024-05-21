@@ -1,6 +1,8 @@
 # Animation
 A animation of tddgai 2, the theme is of our choice.
 
+Integrantes: Isaque Dias e Pedro Santos
+
 a animação tem um carro caindo em uma floresta após ser atacado por animais, todos os envolvidos observam o carro caido.
 
 Tivemos um a ideia de animção mais cartoonizada ou seja, com um design mais parecido com desenhos, isso é aplicado nos materiais e assets.
