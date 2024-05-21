@@ -3,12 +3,20 @@ A animation of tddgai 2, the theme is of our choice.
 
 a animação tem um carro caindo em uma floresta após ser atacado por animais, todos os envolvidos observam o carro caido.
 
+Tivemos um a ideia de animção mais cartoonizada ou seja, com um design mais parecido com desenhos, isso é aplicado nos materiais e assets.
+
 na animação utilizamos os determinados elementos da asset store para criar a cena:
+
+O que são assets?
+
+Eles são conteúdos do site oficial da unity qu epodem ser baixados e adicionados ao seu projeto, seja uma árvore ou um carro lá tem quase de tudo, vale citar que as vezes eles podem vir com materiais ou objetos já prontos, existem objetos pagos ou grátis e todos os objetos usados foram gratuitos.
 
 animais:
 Utilizamos modelos de animais para dar um toque mais cômico para a história.
 
 ![animais](https://github.com/Isaquedias1/Animation/assets/162384088/79641be2-dec8-49b3-a4e4-ed35a4e77662)
+
+Colocamos um de cada aniumal para deixarmos uma fauna mais diversificada
 
 link de acesso:https://assetstore.unity.com/packages/3d/characters/animals/animals-free-260727
 
@@ -35,6 +43,12 @@ e por fim as pedras que já estavam prontas
 link de acesso:https://assetstore.unity.com/packages/3d/environments/landscapes/stylized-low-poly-rocks-271334
 
 Também tivemos os objetos que forma utilzado os seguintes:
+
+Os objetos servem para complementar o seu projeto, adicionando detalhes interessantes ao seu projeto, eles podem ser adicionados direto do unity em game object e em 3d object onde você tem as seguintes opções:
+
+Cube (cubo), sphere (esfera), capsule (capsula), cylinder (cilidro), plane (plano) e quad (quadrado).
+
+objetos utilizados:
 
 Cubos:
 Foi usado para mostrar um relevo para subir no buraco que cai o carro.
@@ -67,6 +81,10 @@ E retangulos para fazer um buraco para cair o carro:
 De texturas utilizamos poucas e os elementos de fisica, elas estão abaixo:
 
 ![materials](https://github.com/Isaquedias1/Animation/assets/162384088/bedb7ca4-8f83-4d24-8a95-26f725c3c9ee)
+
+Textura - Serve para colocar imagens, cores ou detalhes em objetos 3d que você definir. ela pode ser criada clicando em Assets, Create e Material, nessa ordem.
+
+Física - os elementos de física servem para adicionar gravidade e o ato de quicar nos objetos, ela foi aplicada no carro apenas para cair, pelo objetivo da historia.
 
 Vermelho é da maçã
 os verdes são tons da grama
