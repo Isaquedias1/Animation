@@ -1,5 +1,5 @@
 # Animation
-A animation of tddgai 2, the theme is of our choice.
+A animação de tddgai 2, o tema é de nossa escolha.
 
 Integrantes: Isaque Dias e Pedro Santos
 
