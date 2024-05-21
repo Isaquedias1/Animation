@@ -82,7 +82,9 @@ De texturas utilizamos poucas e os elementos de fisica, elas estão abaixo:
 ![materials](https://github.com/Isaquedias1/Animation/assets/162384088/bedb7ca4-8f83-4d24-8a95-26f725c3c9ee)
 
 Textura - Serve para colocar imagens, cores ou detalhes em objetos 3d que você definir. ela pode ser criada clicando em Assets, Create e Material, nessa ordem.
+
 Rigidbody - O carro veio com suas próprias configurações de gravidade e textura, temos nele por exemplo o rigidbody que é utilizado para fazer o objeto cair.
+
 Física - os elementos de física servem para adicionar gravidade e o ato de quicar nos objetos, ela foi aplicada no carro apenas para cair com o rigidbody, pelo objetivo da historia do carro ser destruido.
 
 Vermelho é da maçã, os verdes são tons da grama e o cinza para pedras.
