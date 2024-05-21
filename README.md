@@ -9,7 +9,7 @@ na animação utilizamos os determinados elementos da asset store para criar a c
 
 O que são assets?
 
-Eles são conteúdos do site oficial da unity qu epodem ser baixados e adicionados ao seu projeto, seja uma árvore ou um carro lá tem quase de tudo, vale citar que as vezes eles podem vir com materiais ou objetos já prontos, existem objetos pagos ou grátis e todos os objetos usados foram gratuitos.
+Eles são conteúdos do site oficial da unity que podem ser baixados e adicionados ao seu projeto, seja uma árvore ou um carro lá tem quase de tudo, vale citar que as vezes eles podem vir com materiais ou objetos já prontos, existem objetos pagos ou grátis e todos os objetos usados foram gratuitos.
 
 animais:
 Utilizamos modelos de animais para dar um toque mais cômico para a história.
@@ -45,7 +45,6 @@ link de acesso:https://assetstore.unity.com/packages/3d/environments/landscapes/
 Também tivemos os objetos que forma utilzado os seguintes:
 
 Os objetos servem para complementar o seu projeto, adicionando detalhes interessantes ao seu projeto, eles podem ser adicionados direto do unity em game object e em 3d object onde você tem as seguintes opções:
-
 Cube (cubo), sphere (esfera), capsule (capsula), cylinder (cilidro), plane (plano) e quad (quadrado).
 
 objetos utilizados:
@@ -83,12 +82,12 @@ De texturas utilizamos poucas e os elementos de fisica, elas estão abaixo:
 ![materials](https://github.com/Isaquedias1/Animation/assets/162384088/bedb7ca4-8f83-4d24-8a95-26f725c3c9ee)
 
 Textura - Serve para colocar imagens, cores ou detalhes em objetos 3d que você definir. ela pode ser criada clicando em Assets, Create e Material, nessa ordem.
+Rigidbody - O carro veio com suas próprias configurações de gravidade e textura, temos nele por exemplo o rigidbody que é utilizado para fazer o objeto cair.
+Física - os elementos de física servem para adicionar gravidade e o ato de quicar nos objetos, ela foi aplicada no carro apenas para cair com o rigidbody, pelo objetivo da historia do carro ser destruido.
 
-Física - os elementos de física servem para adicionar gravidade e o ato de quicar nos objetos, ela foi aplicada no carro apenas para cair, pelo objetivo da historia.
+Vermelho é da maçã, os verdes são tons da grama e o cinza para pedras.
 
-Vermelho é da maçã
-os verdes são tons da grama
-e o cinza para pedras
+Como detalhe final temos a posição do sol que foi alterada no directional light que pode alterar o horario, posição do sol e iluminhação do jogo, alteramos isso para dar uma impressão do sol estar nascendo para mostrar que é um novo dia e um a nova era.
 
 Com o resultado final, temos o video, aproveite!
 
